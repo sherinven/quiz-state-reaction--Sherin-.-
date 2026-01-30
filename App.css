@@ -1,0 +1,18 @@
+ .existing code
+.App-link {
+  color: #61dafb;
+}
+
+.center {
+  background: -webkit-linear-gradient(#2213a4, #7d84dc);
+  -webkit-background-clip: text;
+  background-clip: text; /* standard property for compatibility */
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  
+}
+
+@keyframes App-logo-spin {}
+  from {
+    transform: rotate(0deg);
+  }
